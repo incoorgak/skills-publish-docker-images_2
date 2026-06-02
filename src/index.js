@@ -4,6 +4,7 @@ const ROWS = 20;
 const BLOCK_SIZE = 30;
 const PATTERN_SIZE = 5;
 
+
 // Colors for blocks (dev-themed)
 const COLORS = {
   0: "#252526", // Empty
